@@ -1,7 +1,9 @@
-# Jot
+# Jot — Handy foundation
 
-A personal macOS dictation app based on Handy 0.9.8, with a neutral gray interface
-and a note-and-speech icon. This fork uses the `personal` branch. See
+This is the preserved Handy-based version of Jot, based on Handy 0.9.8 with a
+neutral gray interface and a note-and-speech icon. Active development has moved
+to [Jot on MacParakeet](https://github.com/ghwchns/Jot) for combined dictation and
+meeting capture. This fallback uses the `personal` branch. See
 [PERSONAL.md](PERSONAL.md) for building, manual updates, and existing-data details.
 
 The upstream project documentation follows.

@@ -5,8 +5,11 @@ the stable `v0.9.8` release. It uses a neutral gray interface and a note-and-spe
 icon. Audio capture, transcription, model selection, and shortcut behavior remain
 the upstream implementation.
 
-The `personal` branch is the production branch for this fork. Imported `main`
-tracks upstream history. The original MIT license and upstream credits apply.
+This Handy foundation is preserved as [Jot-handy](https://github.com/ghwchns/Jot-handy).
+Active development has moved to [Jot on MacParakeet](https://github.com/ghwchns/Jot)
+for combined dictation and meeting capture. The `personal` branch holds the
+latest Handy fallback; imported `main` tracks upstream history. The original MIT
+license and upstream credits apply.
 
 ## Build
 
