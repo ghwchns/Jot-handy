@@ -1,3 +1,11 @@
+# Jot
+
+A personal macOS dictation app based on Handy 0.9.8, with a neutral gray interface
+and a note-and-speech icon. This fork uses the `personal` branch. See
+[PERSONAL.md](PERSONAL.md) for building, manual updates, and existing-data details.
+
+The upstream project documentation follows.
+
 # Handy
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/WVBeWsNXK4)
